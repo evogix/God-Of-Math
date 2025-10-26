@@ -12,14 +12,14 @@ Chalo bachcho ki tarah step-by-step samajhte hain! 🎯
 
 ### Place Value samjho:
 
-```
+
 Number: 5432
        ↓ ↓ ↓ ↓
        5 4 3 2
        | | | |
    10³ 10² 10¹ 10⁰
    1000 100 10  1
-```
+
 
 **Calculation:**
 - 5 × 1000 = 5000
@@ -46,14 +46,14 @@ Number **729** ko breakdown karo:
 
 ### Place Value:
 
-```
+
 Binary: 1011
         ↓ ↓ ↓ ↓
         1 0 1 1
         | | | |
        2³ 2² 2¹ 2⁰
        8  4  2  1
-```
+
 
 **Decimal mein convert karo:**
 - 1 × 8 = 8
@@ -73,12 +73,12 @@ Binary: 1011
 **Example 2:** Decimal **13** ko binary mein convert karo
 
 **Method - Divide by 2:**
-```
+
 13 ÷ 2 = 6 remainder 1  ←
 6 ÷ 2 = 3 remainder 0   ←
 3 ÷ 2 = 1 remainder 1   ←
 1 ÷ 2 = 0 remainder 1   ←
-```
+
 **Neeche se upar padho: 1101**
 
 **Verify:** 1×8 + 1×4 + 0×2 + 1×1 = 8+4+0+1 = 13 ✓
@@ -94,14 +94,14 @@ Binary: 1011
 
 ### Place Value:
 
-```
+
 Octal: 725
        ↓ ↓ ↓
        7 2 5
        | | |
       8² 8¹ 8⁰
       64 8  1
-```
+
 
 **Decimal mein:**
 - 7 × 64 = 448
@@ -119,11 +119,11 @@ Octal: 725
 **Example 2:** Decimal **100** ko octal mein
 
 **Method - Divide by 8:**
-```
+
 100 ÷ 8 = 12 remainder 4  ←
 12 ÷ 8 = 1 remainder 4    ←
 1 ÷ 8 = 0 remainder 1     ←
-```
+
 **Answer: 144 (octal)**
 
 **Verify:** 1×64 + 4×8 + 4×1 = 64+32+4 = 100 ✓
@@ -139,14 +139,14 @@ Octal: 725
 
 ### Place Value:
 
-```
+
 Hex: 2F3
      ↓ ↓ ↓
      2 F 3
      | | |
    16² 16¹ 16⁰
    256 16  1
-```
+
 
 **Decimal mein:**
 - 2 × 256 = 512
@@ -164,10 +164,10 @@ Hex: 2F3
 **Example 2:** Decimal **255** ko hex mein
 
 **Method - Divide by 16:**
-```
+
 255 ÷ 16 = 15 remainder 15 (F)  ←
 15 ÷ 16 = 0 remainder 15 (F)    ←
-```
+
 **Answer: FF**
 
 **Verify:** F×16 + F×1 = 15×16 + 15 = 240+15 = 255 ✓
@@ -208,17 +208,17 @@ Hex: 2F3
 
 ### Binary se Octal (Shortcut):
 3 binary digits = 1 octal digit
-```
+
 Binary: 110 101 011
 Octal:   6   5   3  = 653
-```
+
 
 ### Binary se Hex (Shortcut):
 4 binary digits = 1 hex digit
-```
+
 Binary: 1101 1010
 Hex:     D    A   = DA
-```
+
 
 ---
 
@@ -268,7 +268,7 @@ Hex:     D    A   = DA
 ## BONUS: Arithmetic Operations
 
 ### Binary Addition:
-```
+
 Rules:
 0 + 0 = 0
 0 + 1 = 1
@@ -280,10 +280,10 @@ Example: 1011 + 1101
   + 1101
   ------
    11000
-```
+
 
 ### Binary Subtraction:
-```
+
 Rules:
 0 - 0 = 0
 1 - 0 = 1
@@ -295,10 +295,10 @@ Example: 1101 - 1011
   - 1011
   ------
     0010
-```
+
 
 ### Binary Multiplication:
-```
+
 Rules:
 0 × 0 = 0
 0 × 1 = 0
@@ -313,7 +313,7 @@ Example: 101 × 11
    101
    -----
    1111
-```
+
 
 ---
 
